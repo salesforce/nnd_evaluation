@@ -56,6 +56,19 @@ There is one NND test set:
 
 Note: this dataset was not included in the original paper. NND test sets could be expanded to other language pairs (ZH-EN) and years of the MQM competition (WMT 2020) based on the same annotations. See [NND_MT.ipynb](https://github.com/MetaMind/nnd/blob/main/NND_MT.ipynb) for example use.
 
+## Cite the work
+
+If you make use of the code, models, or pipeline, please cite our paper:
+```
+@inproceedings{laban2022nnd_evaluation,
+  title={Near-Negative Distinction: Giving a Second Life to Human Evaluation Datasets},
+  author={Philippe Laban and Chien-Sheng Wu and Wenhao Liu and Caiming Xiong},
+  booktitle={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
+  volume={1},
+  year={2022}
+}
+```
+
 ## Contributing
 
 If you'd like to contribute an NND test set for an existing or a new task, feel free to contribute through Pull Requests, or leave an issue with a public resource you think can be transformed into an NND test set.
