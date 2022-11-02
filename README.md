@@ -3,7 +3,7 @@
 Code repository for the EMNLP 2022 paper: [Near-Negative Distinction: Giving a Second Life to Human Evaluation Datasets](https://arxiv.org/abs/2205.06871v1)
 
 <p align="center">
-  <img width="350" height="506" src="https://tingofurro.github.io/images/nnd_diagram.png">
+  <img width="350" height="506" src="https://tingofurro.github.io/images/emnlp2022_nnd_diagram.png">
 </p>
 
 ## Motivation
